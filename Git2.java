@@ -2,7 +2,11 @@ class Git2{
 
     public int id;
 
-    public String name;
+    public String firstName;
+
+    public String lastName;
+
+    public String fullName;
     
     public String address;
     
